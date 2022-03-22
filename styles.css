@@ -69,6 +69,7 @@ h3{
   width: 50%;
   text-align: left;
   line-height: 2;
+  padding: 2% 0;
 }
 
 .skillimg1{
@@ -94,6 +95,8 @@ hr
   border: dotted #EAF6F6 6px;
   border-bottom: none;
   margin: 100px auto;
+  background-color: #ffff;
+  border-color: #66BFBF;
 }
 
 .footer-link{
