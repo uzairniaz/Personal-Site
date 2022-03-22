@@ -16,7 +16,7 @@ h1
   background-color: #C1F4C5;
   position: relative;
   padding-top: 100px;
-  height: 100%;
+
 }
 h2{
   color: #66BFBF;
@@ -29,7 +29,7 @@ h3{
 }
 .heading{
   font-weight: 900;
-  
+
 }
 .subtext{
   font-size: 2.5rem;
@@ -61,6 +61,10 @@ h3{
 .cloud2{
   position: absolute;
 
+}
+
+.profile{
+  padding-top: 5%;
 }
 .dp
 {
